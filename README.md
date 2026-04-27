@@ -1,4 +1,4 @@
-# practice-creating-arrays-1-Carlos---Chunga-
+# practice-creating-arrays-1-Carlos---C-
 
 <!DOCTYPE html>
 <html lang="en">
